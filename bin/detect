@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # this pack is valid for all apps
-echo "libpostal will run!"
+echo "Libpostal Buildpack detected"
 exit 0
