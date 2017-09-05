@@ -1,5 +1,5 @@
-# heroku-buildback-libpostal
+# libpostal-buildpack
 ------
 
-Use for running libpostal on heroku
+Use for running libpostal on Heroku
 
